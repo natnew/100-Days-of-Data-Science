@@ -3,9 +3,34 @@ Data Science Projects, Blogs, Ideas, Data
 
 ![](https://github.com/natnew/100-Days-of-Data-Science/blob/main/christina-wocintechchat-com-eF7HN40WbAQ-unsplash.jpg)
 
-## Week 1
+## Week 1 - Preparation
+My current skills: 
+* Python
+* SQL
+* BIM (Building Information modelling)/ Information Management
+* Project Management
+* Collaboration
 
-## Week 2
+Skills I hope to gain from the course:
+* AI
+* Machine Learning (Processes and Tools)
+* Data SCience
+* Python
+* SQL
+* Data Analysis
+* Data Management
+
+[Visit My Notebook]()<br>
+
+## Week 2 - Thinking Like A Programmer
+* Solving problems
+* Language
+* Choices
+* Calculating/Keeping track of things
+* Data Control
+* Data Types
+
+[Visit My Notebook]()<br>
 
 ## Week 3
 
