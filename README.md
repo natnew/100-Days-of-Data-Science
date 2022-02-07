@@ -24,11 +24,11 @@ Skills I hope to gain from the course:
 
 ## Week 2 - Thinking Like A Programmer
 * Solving problems
-* Language
-* Choices
+* Accessible Language
+* Making Choices
 * Calculating/Keeping track of things
-* Data Control
-* Data Types
+* Data Control Processes
+* Undertsnaing and Dealing with Data Types
 
 [Visit My Notebook]()<br>
 
