@@ -33,6 +33,10 @@ Skills I hope to gain from the course:
 [Visit My Notebook]()<br>
 
 ## Week 3
+* Terminology and Definitions
+* Data Collection
+* BIM Data Formats
+* Relational Data
 
 ## Week 4
 
