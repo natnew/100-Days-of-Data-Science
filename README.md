@@ -12,6 +12,7 @@ You may also want to have a look at the following projects:<br>
 [The Essential Guide To Machine Learning Using Tensorflow](https://medium.com/@natashanewbold/the-essential-guide-to-machine-learning-using-tensorflow-430c25806d3c)<br>
 [Scientific Visualisation: Beyond The Basics](https://medium.com/@natashanewbold/scientific-visualisation-beyond-the-basics-8eaa378fa0d5)<br>
 [Kaggle Notebooks](https://github.com/natnew/Kaggle-Portfolio)<br>
+[100 Days of Artificial Intelligence](https://github.com/natnew/100-Days-of-artificial-intelligence/blob/main/README.md)<br>
 
 [HIRE ME](https://www.linkedin.com/in/natasha-newbold/)<br>
 
