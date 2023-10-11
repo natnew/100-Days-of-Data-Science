@@ -42,6 +42,15 @@ Throughout the 100 days, you will work on various data science projects, learn n
 - Data Science Learning Resources: A curated list of resources to help you learn and grow as a data scientist.
 - Progress Tracker: A template to track your daily progress in the challenge.
 - Contributing Guidelines: If you want to contribute to this repository, please read these guidelines.
+
+| Resource                                                      | Description                                                   |
+|---------------------------------------------------------------|---------------------------------------------------------------|
+| [EBook: The Creative Side of AI: Mastering the Art of Prompt Engineering](https://natashanewbold.gumroad.com/l/zctxdh) | Explore the creative aspects of AI and prompt engineering. |
+| [Mastering Prompt Engineering: A Free eBook](https://natashanewbold.gumroad.com/l/kjxpip) | A free eBook to help you master the art of prompt engineering. |
+| [A - Z Machine Learning Guide](https://natnew.github.io/Awesome-Prompt-Engineering/ML_Guide.html) | A comprehensive guide covering machine learning from A to Z. |
+| [ML CheatSheet](https://natnew.github.io/Awesome-Prompt-Engineering/ML_CheatSheet.html) | A handy cheat sheet for machine learning concepts. |
+| [100 Projects For Beginners Using Python](https://medium.com/@natashanewbold/100-projects-for-beginners-using-python-8b7f55bbd1ad?sk=ff4103731ceecffa845df3e632447964) | Discover 100 beginner-friendly Python projects. |
+| [An Introduction to Prompt Engineering: Key Concepts & Tips For Beginners](https://medium.com/ai-vanguard/ai-prompt-engineering-tips-for-beginners-9ccb5b54243?sk=b6a83e29c3fd82496b78f8e5849512eb) | Get insights into prompt engineering concepts and tips for beginners. |
   
 ##  Contribute
 We welcome contributions from the data science community! If you have suggestions, improvements, or new resources to add, please follow the Contributing Guidelines.
