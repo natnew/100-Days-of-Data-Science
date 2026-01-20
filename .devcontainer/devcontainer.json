@@ -1,0 +1,25 @@
+{
+	"name": "100 Days of Data Science",
+	"build": {
+		"dockerfile": "Dockerfile",
+		"context": ".."
+	},
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"ms-python.python",
+				"ms-python.vscode-pylance",
+				"ms-toolsai.jupyter",
+				"charliermarsh.ruff",
+				"njpwerner.autodocstring"
+			],
+            "settings": {
+                "python.defaultInterpreterPath": "/usr/local/bin/python",
+                "python.formatting.provider": "black",
+                "editor.formatOnSave": true
+            }
+		}
+	},
+    "postCreateCommand": "pip install -r requirements.txt && pre-commit install",
+    "remoteUser": "root"
+}

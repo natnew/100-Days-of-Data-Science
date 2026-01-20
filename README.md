@@ -2,7 +2,7 @@
 
 ![Data Science](https://img.shields.io/badge/AI--Enhanced%20Data%20Science-100%20Days%20Challenge-blue)
 ![Ethics First](https://img.shields.io/badge/Ethics-First%20Class%20Property-green)
-![Modern Stack](https://img.shields.io/badge/Stack-2025%20Ready-orange)
+![Modern Stack](https://img.shields.io/badge/Stack-2026%20Ready-orange)
 
 **Modern data science with AI as your collaborative force multiplier.** This challenge reflects how the field has transformed—AI accelerates exploration, automates routine tasks, enables new scales of analysis, and acts as a reasoning partner for interpretation and decision-making.
 
