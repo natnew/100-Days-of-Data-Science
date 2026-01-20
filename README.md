@@ -274,11 +274,11 @@ cd projects/day-001
 
 ## 🛠️ Tech Stack
 
-**Core**: Python 3.11+, PyTorch/TensorFlow, scikit-learn, Pandas/Polars  
-**AI/LLM**: Claude/GPT-4, LangChain, AutoGen/CrewAI, W&B  
-**XAI**: SHAP, LIME, Fairlearn, InterpretML  
-**MLOps**: MLflow, BentoML, Ray Serve, Feast  
-**Viz**: Plotly, Streamlit, Quarto
+- **Core**: Python 3.11+, PyTorch/TensorFlow, scikit-learn, Pandas/Polars  
+- **AI/LLM/VLM**: Claude/GPT-4, LangChain, AutoGen/CrewAI, W&B, access to all of the latest models, frameworks to assist building and evaluation like LiteLLM, Langgraph, Langchain, DSPy, Langfuse, Inspect. 
+- **XAI**: SHAP, LIME, Fairlearn, InterpretML  
+- **MLOps**: MLflow, BentoML, Ray Serve, Feast  
+- **Viz**: Plotly, Streamlit, Quarto
 
 ## 📚 Key Resources
 
